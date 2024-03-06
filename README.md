@@ -12,6 +12,8 @@
 
 ############################
 `Solution Method`
-###########################
+############################
+
+
 `Firstly, I stored the data in a MYSQL database using Python from the web portal. Then, I conducted an analysis using Python to gain insights into both qualitative and quantitative features, assess data quality, handle missing values, and explore correlations between independent and dependent features.`
 `I utilized Power BI to predict the stock volume, open price, daily return, and profit based on the analyzed dataset of PT Bank Central Asia Tbk. Using Power BI's features, I visualized the data and developed predictive models to forecast these key metrics, enabling better insights and decision-making regarding stock performance.`

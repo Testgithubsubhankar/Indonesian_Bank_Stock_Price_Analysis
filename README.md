@@ -7,3 +7,5 @@ PT Bank Central Asia Tbk (BBCA.JK), more commonly recognized as Bank Central Asi
 Dataset Variables:
 
 Date: The date of the stock price data. Open Price: The opening price of the bank's stock on the given date. Close Price: The closing price of the bank's stock on the given date. High Price: The highest price reached by the bank's stock during the trading day. Low Price: The lowest price reached by the bank's stock during the trading day. Adjusted Low Price: The closing price on a given trading day, adjusted to reflect any corporate actions, such as stock splits, dividends, rights offerings, or other adjustments that may affect the stock price. Volume: The number of shares traded on the given date. Data Sources: The dataset is compiled from reliable financial sources, including stock exchanges, financial news websites, and reputable financial data providers. Data cleaning and preprocessing techniques have been applied to ensure accuracy and consistency. More info: https://finance.yahoo.com/quote/BBCA.JK/history/`
+
+`Using Tools-Python,Power BI and Mysql`
